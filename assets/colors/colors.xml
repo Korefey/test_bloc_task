@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- White -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Blue -->
+    <color name="blueLight">#EDF0FF</color>
+    <color name="blueDark">#53538A</color>
+
+    <!-- Grey -->
+    <color name="greyText">#767676</color>
+    <color name="borders">#C0C0C0</color>
+    <color name="greyBackground">#EAEAEA</color>
+    <color name="greyActive">#D1D1D1</color>
+    <color name="barrier">#B3202020</color>
+    <color name="greyLight">#F5F5F5</color>
+
+    <!-- Red -->
+    <color name="redPrimary">#E10600</color>
+    <color name="redLight">#FFEBEB</color>
+    <color name="redTransparent">#F79D93</color>
+    <color name="redDisabled">#F69D93</color>
+    <color name="redActive">#AF281A</color>
+    <color name="redCircle">#FFB4B4</color>
+
+    <!-- Gradient -->
+    <color name="blueGradientTop">#454581</color>
+    <color name="blueGradientBottom">#FCFCFF</color>
+
+</resources>
